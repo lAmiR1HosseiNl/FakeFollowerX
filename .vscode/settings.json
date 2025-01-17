@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "fsfsdf",
+            "group": "sfdsfsd",
+            "database": "${workspaceFolder:FakeFollowerX}/XAccs.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
